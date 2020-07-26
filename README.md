@@ -1,4 +1,4 @@
-![About Me](i_know_things.gif)
+![About me](https://github.com/softinio/softinio/blob/master/i_know_things.gif "softinio")
 
 <h2> Hi 👋🍷, I'm Salar Rahmanian.</h2>
 
