@@ -11,8 +11,8 @@ I am a Software Engineer based in San Francisco, California 🇺🇸
 - 💻 &nbsp; C | Python | Java | Scala
 - 🌐 &nbsp; Spring Framework | Akka | Play Framework | Django | Flask
 - 🛢 &nbsp; Postgresql | MySQL | Oracle | IBM DB2
-- 🖥 &nbsp; Kafka | Redis | RabbitMQ | Apache Nifi
-- 🔧 &nbsp; NixOS | Git | Markdown | NeoVim | Intellij IDEA
+- 🔧 &nbsp; Kafka | Redis | RabbitMQ | Apache Nifi
+- 🖥 &nbsp; NixOS | Linux | Solaris | IBM Aix
 
 
 <h3>🌉 Community</h3>
