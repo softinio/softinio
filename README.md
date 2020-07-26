@@ -26,7 +26,7 @@ I am very active in the software engineer community in the Bay Area and am organ
 
 If you are interested in doing a talk at one of my meetups, please get in touch.
 
-My meetup's slack community: <https://www.sfbayareatech.xyz>
+Join my meetup's slack community: <https://www.sfbayareatech.xyz>
 
 <br/>
 
