@@ -12,7 +12,7 @@ I am a Software Engineer based in San Francisco, California 🇺🇸
 - 🌐 &nbsp; Spring Framework | Akka | Play Framework | Django | Flask
 - 🛢 &nbsp; Postgresql | MySQL | Oracle | IBM DB2
 - 🔧 &nbsp; Kafka | Spark | Redis | RabbitMQ | Apache Nifi
-- 🖥 &nbsp; NixOS | Linux | Solaris | IBM Aix| HP-UX
+- 🖥 &nbsp; NixOS | Linux | Solaris | IBM Aix | HP-UX
 
 
 <h3>🌉 Community</h3>
