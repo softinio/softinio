@@ -11,8 +11,8 @@ I am a Software Engineer based in San Francisco, California 🇺🇸
 - 💻 &nbsp; C | Python | Java | Scala
 - 🌐 &nbsp; Spring Framework | Akka | Play Framework | Django | Flask
 - 🛢 &nbsp; Postgresql | MySQL | Oracle | IBM DB2
-- 🔧 &nbsp; Kafka | Redis | RabbitMQ | Apache Nifi
-- 🖥 &nbsp; NixOS | Linux | Solaris | IBM Aix
+- 🔧 &nbsp; Kafka | Spark | Redis | RabbitMQ | Apache Nifi
+- 🖥 &nbsp; NixOS | Linux | Solaris | IBM Aix| HP-UX
 
 
 <h3>🌉 Community</h3>
@@ -21,6 +21,7 @@ I am very active in the software engineer community in the Bay Area and am organ
 - [SF Scala](https://www.meetup.com/SF-Scala)
 - [SF Java](https://www.meetup.com/sfjava/)
 - [San Francisco Elastic User Group](https://www.meetup.com/Elasticsearch-San-Francisco)
+- [Bay Area Nix/NixOS User Group](https://www.meetup.com/Bay-Area-Nix-NixOS-User-Group/)
 - [Bay Area AI](https://www.meetup.com/bay-area-ai/)
 - [GraphQL By the Bay](https://www.meetup.com/graphql-by-the-bay)
 
