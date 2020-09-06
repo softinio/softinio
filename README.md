@@ -22,7 +22,7 @@ I am very active in the software engineer community in the Bay Area and am organ
 - [SF Java](https://www.meetup.com/sfjava/)
 - [San Francisco Elastic User Group](https://www.meetup.com/Elasticsearch-San-Francisco)
 - [Bay Area Nix/NixOS User Group](https://www.meetup.com/Bay-Area-Nix-NixOS-User-Group/)
-- [SF Spark and Friends Meetup page](https://www.meetup.com/SF-Spark-and-Friends/)
+- [SF Spark and Friends](https://www.meetup.com/SF-Spark-and-Friends/)
 - [Bay Area AI](https://www.meetup.com/bay-area-ai/)
 - [GraphQL By the Bay](https://www.meetup.com/graphql-by-the-bay)
 
