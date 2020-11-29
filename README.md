@@ -32,12 +32,17 @@ If you are interested in doing a talk at one of my meetups, please visit our com
 
 [![Softinio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=softinio&show_icons=true)](https://github.com/softinio)
 
+<h3> 📨 Subscribe to my Newsletter</h3>
+
+[Subscribe to my newsletter](https://softinio.substack.com/)
+
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
 <a href="https://www.softinio.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.softinio.com-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/salarrahmanian/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Salar%20Rahmanian-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.twitter.com/SalarRahmanian"><img alt="Twitter URL" src="https://img.shields.io/badge/Twitter-Salar%20Rahmanian-blue?style=flat-square&logo=twitter"></a>
+<a href="https://fosstodon.org/@softinio"><img alt="Mastedon URL" src="https://img.shields.io/badge/Mastedon-softinio-blue?style=flat-square&logo=mastedon"></a>
 </p>
 
 ⭐️ From [softinio](https://github.com/softinio)
