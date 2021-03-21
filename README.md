@@ -14,27 +14,13 @@ I am a Software Engineer based in San Francisco, California 🇺🇸
 - 🔧 &nbsp; Kafka | Spark | Redis | RabbitMQ | Apache Nifi
 - 🖥 &nbsp; NixOS | Linux | Solaris | IBM Aix | HP-UX
 
-
-<h3>🌉 Community</h3>
-I am very active in the software engineer community in the Bay Area and am organizer for the following meetups:
-
-- [SF Scala](https://www.meetup.com/SF-Scala)
-- [SF Java](https://www.meetup.com/sfjava/)
-- [San Francisco Elastic User Group](https://www.meetup.com/Elasticsearch-San-Francisco)
-- [Bay Area Nix/NixOS User Group](https://www.meetup.com/Bay-Area-Nix-NixOS-User-Group/)
-- [SF Spark and Friends](https://www.meetup.com/SF-Spark-and-Friends/)
-- [Bay Area AI](https://www.meetup.com/bay-area-ai/)
-- [GraphQL By the Bay](https://www.meetup.com/graphql-by-the-bay)
-
-If you are interested in doing a talk at one of my meetups, please visit our community website and join our discord/slack communities to chat with us: <https://www.sfbayareatechies.com>
-
 <br/>
 
 [![Softinio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=softinio&show_icons=true)](https://github.com/softinio)
 
 <h3> 📨 Subscribe to my Newsletter</h3>
 
-[Subscribe to my newsletter](https://softinio.substack.com/)
+[Subscribe to my newsletter](http://newsletter.softinio.com/)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
