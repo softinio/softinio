@@ -18,6 +18,10 @@ I am a Software Engineer based in San Francisco, California 🇺🇸
 
 [![Softinio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=softinio&show_icons=true)](https://github.com/softinio)
 
+<h3>Find more of my projects here</h3>
+
+<https://git.softinio.com>
+
 <h3> 📨 Subscribe to my Newsletter</h3>
 
 [Subscribe to my newsletter](http://newsletter.softinio.com/)
