@@ -20,7 +20,7 @@ I am a Software Engineer based in San Francisco, California 🇺🇸
 
 <h3>Find more of my projects here</h3>
 
-<https://git.softinio.com>
+<https://git.softinio.com/softinio>
 
 <h3> 📨 Subscribe to my Newsletter</h3>
 
