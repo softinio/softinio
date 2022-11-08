@@ -24,7 +24,7 @@ I am a Software Engineer based in San Francisco, California 🇺🇸
 
 <h3> 📨 Subscribe to my Newsletter</h3>
 
-[Subscribe to my newsletter](http://newsletter.softinio.com/)
+[Subscribe to my newsletter](https://notes.softinio.com/)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
