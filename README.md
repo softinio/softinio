@@ -8,10 +8,10 @@ I am a Software Engineer based in San Francisco, California 🇺🇸
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; C | Python | Java | Scala
+- 💻 &nbsp; C | Python | Java | Scala (including Typelevel stack and akka)
 - 🌐 &nbsp; Spring Framework | Akka | Play Framework | Django | Flask
 - 🛢 &nbsp; Postgresql | MySQL | Oracle | IBM DB2
-- 🔧 &nbsp; Kafka | Spark | Redis | RabbitMQ | Apache Nifi
+- 🔧 &nbsp; Kafka | Spark / Databricks | Redis | RabbitMQ | Apache Nifi
 - 🖥 &nbsp; NixOS | Linux | Solaris | IBM Aix | HP-UX
 
 <br/>
@@ -20,7 +20,7 @@ I am a Software Engineer based in San Francisco, California 🇺🇸
 
 <h3>Find more of my projects here</h3>
 
-<https://git.softinio.com/softinio>
+<https://git.softinio.com>
 
 <h3> 📨 Subscribe to my Newsletter</h3>
 
