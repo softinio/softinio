@@ -8,19 +8,16 @@ I am a Software Engineer based in San Francisco, California 🇺🇸
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; C | Python | Java | Scala (including Typelevel stack and akka)
-- 🌐 &nbsp; Spring Framework | Akka / Pekko | Play Framework | Django | Flask
-- 🛢 &nbsp; Postgresql | MySQL | Oracle | IBM DB2
+- 💻 &nbsp; C | Python | Java | Scala (including Typelevel stack and akka) | Swift
+- 🌐 &nbsp; Spring Framework | Akka / Pekko | Play Framework | Django | Flask | FastApi | http4s
+- 🛢 &nbsp; Postgresql | MySQL | Oracle | IBM DB2 | DuckDB
 - 🔧 &nbsp; Kafka | Spark / Databricks | Redis | RabbitMQ | Apache Nifi
 - 🖥 &nbsp; NixOS | Linux | Solaris | IBM Aix | HP-UX
+- 🤖 &nbsp; Langchain | OpenAI | Anthropic | VertexAI | MLFlow
 
 <br/>
 
 [![Softinio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=softinio&show_icons=true)](https://github.com/softinio)
-
-<h3>Find more of my projects here</h3>
-
-<https://code.softinio.com>
 
 <h3> 📨 Subscribe to my Newsletter</h3>
 
